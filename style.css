@@ -45,8 +45,8 @@ body
 	width: 64%;
 	background-color: #f4fcff;
 	border: 1px solid #999999;
-	-webkit-border-radius: 25px 0px 25px 0px;
-	border-radius: 25px 0px;
+	-webkit-border-radius: 25px 25px 25px 25px;
+	border-radius: 25px 25px;
 	-webkit-box-shadow: 5px 3px 3px #0a182e;
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
@@ -54,7 +54,7 @@ body
 
 #edito h2
 {
-	color: #000;
+	color: #00A9CD;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -70,8 +70,8 @@ div.element
 	padding: 0%;
 	background-color: #f4fcff;
 	border: 1px solid #999999;
-	-webkit-border-radius: 25px 0px 25px 0px;
-	border-radius: 25px 0px;
+	-webkit-border-radius: 25px 25px 25px 25px;
+	border-radius: 25px 25px;
 	-webkit-box-shadow: 5px 3px 3px #0a182e;
 	box-shadow: 5px 3px 3px #0a182e;
 	opacity: 0.8;
