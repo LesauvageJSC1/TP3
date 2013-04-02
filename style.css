@@ -77,6 +77,22 @@ body
 	opacity: 0.8;
 }
 
+#tableau
+{
+	height: 400px;
+	float: left;
+	padding: 0%;
+	margin: 1%;
+	width: 64%;
+	background-color: #f4fcff;
+	border: 1px solid #999999;
+	-webkit-border-radius: 25px 0px 25px 0px;
+	border-radius: 25px 0px;
+	-webkit-box-shadow: 5px 3px 3px #0a182e;
+	box-shadow: 5px 3px 3px #0a182e;
+	opacity: 0.8;
+}
+
 #edito h2
 {
 	color: #000;
