@@ -26,6 +26,7 @@ body
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	text-align:center;
 }
 
 #header h1 { margin: 0; }
@@ -140,4 +141,6 @@ h2,h3
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	text-align:center;
+	text-color:#FFFFFF;
 }
