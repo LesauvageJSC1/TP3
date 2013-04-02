@@ -12,23 +12,21 @@ body
 {
 	padding: 0;
 	margin: 0 ;
-#	background: #fff;
 	font-family: sans-serif;
 }
 
 #header
 {
 	margin: 0;
-	padding: 20px;
 	background: #ccc;
-	height:50px;
+	padding:20px;
 	background-image: url('haut.jpg');
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	text-align:center;	
 }
 
-#header h1 { margin: 0; }
 
 #navigation
 {
@@ -37,29 +35,6 @@ body
 	background: #333;
 }
 
-#navigation ul
-{
-	margin: 0;
-	padding: 0;
-}
-
-#navigation ul li
-{
-	list-style-type: none;
-	display: inline;
-}
-
-#navigation li a
-{
-	display: block;
-	float: left;
-	padding: 5px 10px;
-	color: #fff;
-	text-decoration: none;
-	border-right: 1px solid #fff;
-}
-
-#navigation li a:hover { background: #383; }
 
 #edito
 {
@@ -121,6 +96,8 @@ p
 {
 	margin: 20px;
 	text-align: justify;
+	font-family:"Arial";
+	font-size:18px;
 }
 
 h2,h3
@@ -140,4 +117,5 @@ h2,h3
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	text-align:center;
 }
